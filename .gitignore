@@ -1,0 +1,8 @@
+.idea
+node_modules
+*.rar
+bitrix
+/Diplom data/_images/
+/www/.idea
+*.zip
+work
